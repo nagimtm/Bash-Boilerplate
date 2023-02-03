@@ -349,3 +349,6 @@ history -a
 touch CodeAlly.svg
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch CodeRoad.svg
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
