@@ -52,3 +52,23 @@ git status
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
 git add freeCodeCamp learn-bash-by-building-a-boilerplate
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git commit -m 'Add first commmit'
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push https://github.com/nagimtm/Bash-Boilerplate.git master
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git stt
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo hello terminal
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
