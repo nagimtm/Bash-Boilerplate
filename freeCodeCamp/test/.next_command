@@ -822,3 +822,14 @@ git status
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
 git add ./
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git commit -m 'Add last changes.'
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push https://github.com/nagimtm/Bash-Boilerplate.git master
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv website website-boilerplate
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
