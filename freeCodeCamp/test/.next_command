@@ -83,3 +83,9 @@ history -a
 cd freeCodeCamp
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+git status
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+pwd
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
