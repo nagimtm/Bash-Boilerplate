@@ -319,3 +319,9 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch robot.font
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+touch roboto.font
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
