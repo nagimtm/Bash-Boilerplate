@@ -1,0 +1,54 @@
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -a
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd.
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto -a
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd projects
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd project
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git log
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git push origin master
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git log
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git branch
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+clear
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git config --list
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git config --list
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git add freeCodeCamp learn-bash-by-building-a-boilerplate
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+git add freeCodeCamp learn-bash-by-building-a-boilerplate
