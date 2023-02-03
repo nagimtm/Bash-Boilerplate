@@ -722,3 +722,39 @@ history -a
 rm --help
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir -r fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir -r fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir --r fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir -rf fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+tldr rmdir
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir -rf fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir --r fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rmdir -r fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+rm -r fonts
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
